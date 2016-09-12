@@ -1,5 +1,5 @@
 # What is this for?
-This are all linux patches you can get on 3.10.x and 3.4.x kernel.
+This are all linux patches you can get on 3.18.y, 3.10.y and 3.4.y kernel.
 
 I realised that it is kind of very boring to download all small patches on the www.kernel.org website. So I will upload here all new Linux versions, that you can download them just from here!
 
