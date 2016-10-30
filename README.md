@@ -10,4 +10,4 @@ Open your terminal, navigate to your source and copy the patchfiles into this di
 
 # And what to do if I got .rej files?
 This files are coming to the repo if a patch did not apply successfully. In this file you can see what should be changed and you have to manually fix it. The original file is always stored in the .orig file. So you always see what changed between the updates.
-I recommand you to commit all changes, like: Linux 3.10.5 update and so on
+I recommand you to commit all changes, after every linux patch, like following: Type in terminal: git commit -a "Linux 3.4.2 patch"
